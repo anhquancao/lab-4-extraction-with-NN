@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+data/
+*.json.gz
+*.json
+glove.6B
+glove.6B.zip
+*.h5
