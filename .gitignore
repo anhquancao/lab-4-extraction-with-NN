@@ -5,3 +5,4 @@ data/
 glove.6B
 glove.6B.zip
 *.h5
+*.zip
